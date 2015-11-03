@@ -11,3 +11,6 @@ In the second week of the challenge, I went into front-end web development tools
 
 ## Week 3
 In the third week, I dealt with [Vagrant and Chef](https://github.com/aziflaj/vagrant-chef). I use Vagrant for creating virtual environments, and Chef for provisioning the VM. Until now, I've been using [laravel's Homestead](http://laravel.com/docs/5.1/homestead) and [PuPHPet](http://puphpet.com/) for creating these VMs. Instead of Chef, PuPHPet uses [Puppet](http://puppetlabs.com/), but it is focused only in PHP projects. Using Chef and manually configuring VMs, allows me to create Virtual Environments for every kind of project, including other languages except PHP.
+
+## Week 4
+In the fourth week, I decided to learn a MVC, Rails-based Node.js framework called [Sails](http://sailsjs.org/) (like Rails, but with an `S` instead of `R`). [The application I developed](https://github.com/aziflaj/Sailor) is not a really complicated one. It is a sample API built with Sails that allows the API consumer get information about different ship types (source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_historical_ship_types)).
