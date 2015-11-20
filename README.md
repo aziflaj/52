@@ -18,3 +18,6 @@ You can read my [blog post about this week](https://aziflaj.github.io/week-4-cha
 
 ## Week 5
 In the fifth week I made some small changes to the same application I developed the 4th week. I added a bit of validation and an authorization mechanism, so not everyone could access certain routes. For example, only admin users can delete records. [The repository is still the same](https://github.com/aziflaj/Sailor/), so I added a branch called `week4` for the code writen in the 4th week.
+
+## Week 6
+In the sixth week I created an IRC-like application in Java using Sockets. The application allows different clients to connect to a single server process, identified by a hostname and a port number, and chat with each other. [You can find the source code here](https://github.com/aziflaj/IRC), where you can also read how to set up the server and the client and use them
