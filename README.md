@@ -21,3 +21,6 @@ In the fifth week I made some small changes to the same application I developed 
 
 ## Week 6
 In the sixth week I created an IRC-like application in Java using Sockets. The application allows different clients to connect to a single server process, identified by a hostname and a port number, and chat with each other. [You can find the source code here](https://github.com/aziflaj/IRC), where you can also read how to set up the server and the client and use them
+
+## Week 7
+I took a week off from coding and instead answered seven questions I found interesting during time. You can read the answers [in my blog post](https://aziflaj.github.io/seven-questions/).
