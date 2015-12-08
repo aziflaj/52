@@ -23,4 +23,20 @@ In the fifth week I made some small changes to the same application I developed 
 In the sixth week I created an IRC-like application in Java using Sockets. The application allows different clients to connect to a single server process, identified by a hostname and a port number, and chat with each other. [You can find the source code here](https://github.com/aziflaj/IRC), where you can also read how to set up the server and the client and use them
 
 ## Week 7
-I took a week off from coding and instead answered seven questions I found interesting during time. You can read the answers [in my blog post](https://aziflaj.github.io/seven-questions/).
+I took a week off from coding and instead answered seven questions I found interesting during time. Some of the questions are:
+
+- A comparison between C# and Java
+- The difference between Active Record and Data Mapper, two implementations of an Object-Relational Mapper (ORM)
+- How JavaScript is executed in the server?
+- How does Siri work?
+
+You can read the answers [in my blog post](https://aziflaj.github.io/seven-questions/).
+
+## Week 8
+This week, I went back into the hybrid app development frameworks I like most, the Ionic Framework. I remade an old application of mine, called yalg - Yet Another Logo Game (not a very original name, I know). 
+I rewrote the application for 3 reasons:
+
+1. I had completely lost track with Ionic and what Drifty has been doing lately. I wanted to retry the framework and check the latest features they added.
+2. While Angular2 is in progress, so is Ionic2. So I rewrote this, using the awesome Angular style guide by John Papa, and later will compare this to the newer Ionic2 framework.
+3. I want to try to integrate ngCordova with this application, firstly for the embedded SQLite database and maybe later for other things too.
+
