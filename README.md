@@ -1,6 +1,6 @@
-# 52 weeks, 52 projects
+# Project 52
 
-The **52 weeks, 52 projects** challenge states that I should make one projects every week, for 52 weeks. It doesn't state what kind of project should I make or anything else related to that. But I have a long list of technologies I'd like to try and test, so I probably will have a lot to do.
+The **Project 52** is a personal challenge according to which I should make one project every week, for 52 weeks (one year). It doesn't state what kind of project should I make or anything else related to that. But I have a long list of technologies I'd like to try and test, so I probably will have a lot to do.
 
 
 ## Week 1
@@ -33,10 +33,16 @@ I took a week off from coding and instead answered seven questions I found inter
 You can read the answers [in my blog post](https://aziflaj.github.io/seven-questions/).
 
 ## Week 8
-This week, I went back into the hybrid app development frameworks I like most, the Ionic Framework. I remade an old application of mine, called yalg - Yet Another Logo Game (not a very original name, I know). 
+This week, I went back into the hybrid app development frameworks I like most, the Ionic Framework. I rewrote an old application of mine, called yalg - Yet Another Logo Game (not a very original name, I know). 
 I rewrote the application for 3 reasons:
 
 1. I had completely lost track with Ionic and what Drifty has been doing lately. I wanted to retry the framework and check the latest features they added.
 2. While Angular2 is in progress, so is Ionic2. So I rewrote this, using the awesome Angular style guide by John Papa, and later will compare this to the newer Ionic2 framework.
 3. I want to try to integrate ngCordova with this application, firstly for the embedded SQLite database and maybe later for other things too.
 
+You can [read the blogpost here](https://aziflaj.github.io/week-8-remaking-ionic-application/).
+
+## Week 9
+During a couple of weeks I've been working on some school projects, including [Balut](https://github.com/aziflaj/Balut) and [Restauranteers](http://github.com/aziflaj/restauranteers). Also I've been following an Android course and developing some simple apps during it, which you can find [here](https://github.com/aziflaj/AndroidCourse).
+
+You can [read my blogpost here](http://aziflaj.github.io/week-9-java-nodejs-android/).
