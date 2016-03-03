@@ -46,3 +46,6 @@ You can [read the blogpost here](https://aziflaj.github.io/week-8-remaking-ionic
 During a couple of weeks I've been working on some school projects, including [Balut](https://github.com/aziflaj/Balut) and [Restauranteers](http://github.com/aziflaj/restauranteers). Also I've been following an Android course and developing some simple apps during it, which you can find [here](https://github.com/aziflaj/AndroidCourse).
 
 You can [read my blogpost here](http://aziflaj.github.io/week-9-java-nodejs-android/).
+
+## Week 10
+During the 10th week I finished the applications I started in the 9th week. and also developed another Android application, [Exchangeagram](https://github.com/aziflaj/AndroidCourse/tree/master/Exchangeagram). You can [read my blogpost here](http://aziflaj.github.io/week-10-extends-week-9/).
