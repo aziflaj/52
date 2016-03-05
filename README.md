@@ -49,3 +49,7 @@ You can [read my blogpost here](http://aziflaj.github.io/week-9-java-nodejs-andr
 
 ## Week 10
 During the 10th week I finished the applications I started in the 9th week. and also developed another Android application, [Exchangeagram](https://github.com/aziflaj/AndroidCourse/tree/master/Exchangeagram). You can [read my blogpost here](http://aziflaj.github.io/week-10-extends-week-9/).
+
+## Week 11
+After a month of exams, I returned to my Project 52 with [jump-starting Sinatra](http://aziflaj.github.io/week-11-jump-starting-sinatra/), building a simple CRUD application using [Sinatra](www.sinatrarb.com). You can read the blogpost [here](http://aziflaj.github.io/week-11-jump-starting-sinatra/).
+PS: I also changed the theme of my Jekyll blog
