@@ -53,3 +53,12 @@ During the 10th week I finished the applications I started in the 9th week. and 
 ## Week 11
 After a month of exams, I returned to my Project 52 with [jump-starting Sinatra](http://aziflaj.github.io/week-11-jump-starting-sinatra/), building a simple CRUD application using [Sinatra](www.sinatrarb.com). You can read the blogpost [here](http://aziflaj.github.io/week-11-jump-starting-sinatra/).
 PS: I also changed the theme of my Jekyll blog
+
+## Week 12
+This week I went back into following the Android course by Rob Percival, building an Uber clone and after that, a Flappy Bird clone. During this time, I was working with Parse Geolocation API and libGDX for developing the game. Also I followed an introduction to Android Wear, how to build simple applications for smart watches and test these apps in the emulator. Here is [that blogpost](http://aziflaj.github.io/week-12-uber-and-flappy-bird/).
+
+## Week 13
+This week I’ve been working on something I’d like to call “a probability model for playing Blackjack”. If that intrigued you, [please read the blogpost here](http://aziflaj.github.io/week-13-playing-blackjack-with-machine-learning/).
+
+## Week 14
+I decided to write a non code-related article every 7th week, after I saw how many people liked the article on the 7th week. This time I wrote a Medium article called [The Developer's Mindset](https://medium.com/@aziflaj/the-developer-s-mindset-f5da7a4065b0#.gnru7424h).
