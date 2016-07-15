@@ -62,3 +62,7 @@ This week I’ve been working on something I’d like to call “a probability m
 
 ## Week 14
 I decided to write a non code-related article every 7th week, after I saw how many people liked the article on the 7th week. This time I wrote a Medium article called [The Developer's Mindset](https://medium.com/@aziflaj/the-developer-s-mindset-f5da7a4065b0#.gnru7424h).
+
+## Week 15 to 24
+During the last 2 - 3 months I haven’t written anything on my blog and the analytics are showing me the EKG of a wooden box. Nevertheless, I haven’t been just staying around, so my Project52 is still going on. [This blogpost](https://aziflaj.github.io/week-24-fast-forward-9-weeks/) is a fast forward, showing what interesting things I have been doing for the last 9 weeks.
+
