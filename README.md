@@ -66,3 +66,5 @@ I decided to write a non code-related article every 7th week, after I saw how ma
 ## Week 15 to 24
 During the last 2 - 3 months I haven’t written anything on my blog and the analytics are showing me the EKG of a wooden box. Nevertheless, I haven’t been just staying around, so my Project52 is still going on. [This blogpost](https://aziflaj.github.io/week-24-fast-forward-9-weeks/) is a fast forward, showing what interesting things I have been doing for the last 9 weeks.
 
+## Week 25
+This week I wrote a Ruby script to turn Markdown files into HTML files. The blogpost is posted on [Medium](https://medium.com/@aziflaj/converting-markdown-to-html-using-ruby-c9c92b45aeb1#.52f97nry7).
